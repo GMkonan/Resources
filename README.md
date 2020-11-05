@@ -45,7 +45,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [OdinProject](https://www.theodinproject.com/) Web Dev Full path
 - [flexboxdefense](http://www.flexboxdefense.com/) A cool game to learn CSS
 - [Learn X in Y minutes](https://learnxinyminutes.com/) Cool Begginers guide to start learning a language
-
+- [Kotlin android](https://developer.android.com/courses) google guides about kotlin
 # Português BR
 
 ## Cursos Online
