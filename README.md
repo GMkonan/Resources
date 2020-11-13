@@ -6,9 +6,6 @@ A list of resources I gathered through my time studying Computer Science. Both i
 ### Português BR
 Uma lista de links que eu juntei ao passar do tempo estudando Ciência da computacão. Links em Inglês e português.
 
-Portuguese and English
-Português e Inglês
-
 # English
 
 ## Youtube Channels
