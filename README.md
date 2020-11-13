@@ -6,6 +6,9 @@ A list of resources I gathered through my time studying Computer Science. Both i
 ### Português BR
 Uma lista de links que eu juntei ao passar do tempo estudando Ciência da computacão. Links em Inglês e português.
 
+Portuguese and English
+Português e Inglês
+
 # English
 
 ## Youtube Channels
@@ -33,25 +36,41 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [lynda](https://www.lynda.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Cisco Courses](https://www.netacad.com/)
+- [Coursera](https://www.coursera.org/) Lots of different courses by Big universitys and Tech Companies
+- [Udacity](https://www.udacity.com/)
+- [CodeAcademy](https://www.codecademy.com/)
+- [MIT Open Courses](https://ocw.mit.edu/index.htm)
 
 ## Exercises
 - [leetcode](https://leetcode.com/)
 - [codewars](https://www.codewars.com/)
 - [hackerRank](https://www.hackerrank.com/)
+- [projecteuler](https://projecteuler.net/)
 
 ## Extras
 - [HackeTerms](https://www.hackterms.com/)
 - [learnPython](https://www.learnpython.org/)
-- [OdinProject](https://www.theodinproject.com/) Web Dev Full path
+- [OdinProject](https://www.theodinproject.com/) Full stack path
 - [flexboxdefense](http://www.flexboxdefense.com/) A cool game to learn CSS
 - [Learn X in Y minutes](https://learnxinyminutes.com/) Cool Begginers guide to start learning a language
 - [Kotlin android](https://developer.android.com/courses) google guides about kotlin
+- [Khan Academy](https://www.khanacademy.org/) Learn Math or/and programming with videos, articles etc
+- [FullstackOpen](https://fullstackopen.com/en/) The full stack path by University of Helsinki
+
 # Português BR
+
+## Canais no Youtube
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [Khan Academy Brasil](https://www.youtube.com/channel/UCXj2oSzwg6G0iBjKg33joMQ)
 
 ## Cursos Online
 - [Fundação Bradesco](https://www.ev.org.br/Cursos)
+- [Coursera](https://www.coursera.org/browse/computer-science?facets=languages%3APortuguese+%28Brazil%29%2CcategoryMultiTag%3Acomputer-science) Cursos de diversas areas em inglês e português (Recomendo os cursos da USP e ITA)
 
 ## Extras
 - [Learn X in Y minutes](https://learnxinyminutes.com/) Pequenos resumos de linguagens para começar a aprender
 - [CC50](https://cc50.com.br/) Um antigo site com material traduzido do curso de `harvard` CS50
-
+- [CodeCombat](https://br.codecombat.com/) Site para aprender programação jogando!
+- [Scrath](https://scratch.mit.edu/) Crie historias e animações enquanto aprende o basico da logica de programação.
+- [Khan academy](https://pt.khanacademy.org/) Site que ensina tanto programação quanto matematica com videos, artigos etc
