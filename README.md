@@ -43,6 +43,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [codewars](https://www.codewars.com/)
 - [hackerRank](https://www.hackerrank.com/)
 - [projecteuler](https://projecteuler.net/)
+- [codingames](https://www.codingame.com/start) coding games for intermediate/advanced levels
 
 ## Extras
 - [HackeTerms](https://www.hackterms.com/)
@@ -53,6 +54,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [Kotlin android](https://developer.android.com/courses) google guides about kotlin
 - [Khan Academy](https://www.khanacademy.org/) Learn Math or/and programming with videos, articles etc
 - [FullstackOpen](https://fullstackopen.com/en/) The full stack path by University of Helsinki
+- [Programming slides](https://marko-knoebl.github.io/slides/) A series of programming slides for begginers,intermediate and advanced in different topics
 
 # Português BR
 
