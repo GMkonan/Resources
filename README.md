@@ -63,6 +63,9 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - [Khan Academy Brasil](https://www.youtube.com/channel/UCXj2oSzwg6G0iBjKg33joMQ)
 
+## Livros de programção de graça
+- [Conjunto de livros em repo github](https://github.com/xstpl/Livros-1)
+
 ## Cursos Online
 - [Fundação Bradesco](https://www.ev.org.br/Cursos)
 - [Coursera](https://www.coursera.org/browse/computer-science?facets=languages%3APortuguese+%28Brazil%29%2CcategoryMultiTag%3Acomputer-science) Cursos de diversas areas em inglês e português (Recomendo os cursos da USP e ITA)
