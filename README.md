@@ -20,7 +20,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [LinuxTV](https://www.youtube.com/channel/UChkws8rD7PNNITF17q1wOCw) Linux Begginers Guide,Distro Reviews
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ) Project Ideas,Python videos
 - [Engineer Man](https://www.youtube.com/c/EngineerMan/featured) Begginers Guides,Mini tutorials
-
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw?app=desktop) Algorithms explanations
 ## Links with Resources
 - [TeachyourselfCS](https://teachyourselfcs.com/)
 - [CS before College](https://www.computerscience.org/resources/computer-science-before-college/)
