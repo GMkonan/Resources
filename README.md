@@ -55,7 +55,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [Khan Academy](https://www.khanacademy.org/) Learn Math or/and programming with videos, articles etc
 - [FullstackOpen](https://fullstackopen.com/en/) The full stack path by University of Helsinki
 - [Programming slides](https://marko-knoebl.github.io/slides/) A series of programming slides for begginers,intermediate and advanced in different topics
-
+- [Build you own X](https://github.com/joaozangeli/build-your-own-x) repository with projects ideas and tutorials
 # Português BR
 
 ## Canais no Youtube
