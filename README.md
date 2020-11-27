@@ -21,6 +21,8 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ) Project Ideas,Python videos
 - [Engineer Man](https://www.youtube.com/c/EngineerMan/featured) Begginers Guides,Mini tutorials
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw?app=desktop) Algorithms explanations
+- [The coding Train](https://www.youtube.com/c/TheCodingTrain/featured) Creative Coding videos from begginer to advanced
+
 ## Links with Resources
 - [TeachyourselfCS](https://teachyourselfcs.com/)
 - [CS before College](https://www.computerscience.org/resources/computer-science-before-college/)
