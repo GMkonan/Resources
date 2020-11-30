@@ -58,6 +58,8 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [FullstackOpen](https://fullstackopen.com/en/) - The full stack path by University of Helsinki
 - [Programming slides](https://marko-knoebl.github.io/slides/) - A series of programming slides for begginers,intermediate and advanced in different topics
 - [Build you own X](https://github.com/joaozangeli/build-your-own-x) - repository with projects ideas and tutorials
+- [Using Git and Github](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) - A Very begginer friendly tutorial to start using git
+
 # Português BR
 
 ## Canais no Youtube
