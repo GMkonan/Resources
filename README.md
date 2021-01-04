@@ -22,7 +22,7 @@ Uma lista de links que eu juntei ao passar do tempo estudando Ciência da comput
 - [Engineer Man](https://www.youtube.com/c/EngineerMan/featured) - Begginers Guides,Mini tutorials
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw?app=desktop) - Algorithms explanations
 - [The coding Train](https://www.youtube.com/c/TheCodingTrain/featured) - Creative Coding videos from begginer to advanced
-
+- [The Code implementation](https://www.youtube.com/channel/UCecfXH0CwYv-CA0Oo3-8PFg) Java
 ## Links with Resources
 - [TeachyourselfCS](https://teachyourselfcs.com/)
 - [CS before College](https://www.computerscience.org/resources/computer-science-before-college/)
